@@ -40,5 +40,5 @@ const secretPassword = (inp) => {
   return password.join("").toString();
 };
 
-let res = secretPassword("danishpkp");
+let res = secretPassword("rishanpkp");
 console.log(res);
